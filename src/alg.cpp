@@ -22,3 +22,5 @@ if (arr[start] == value) {
 }
 
 return count;
+
+}
